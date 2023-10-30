@@ -1,4 +1,3 @@
-```
 <h1 align="center"> AliRat </h1> 
 <p align= "center"> <kbd> <img  src="https://media.discordapp.net/attachments/1166118083308556478/1168347071020015716/resident-evil-ada-wong-6.jpg"width="420"> </kbd><br><br>
 
