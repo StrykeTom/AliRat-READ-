@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><a href="https://discord.gg/BaDA4mk6" target="_blank">✨ Join Discord for support and contact (Click here!) ✨ </a>
+<p align="center"><a href="https://discord.gg/COMING-SOON" target="_blank">✨ Join Discord for support and contact (Click here!) ✨ </a>
 
 
 
